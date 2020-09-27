@@ -3,4 +3,4 @@ project(lfu_cache)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(lfu_cache main.cpp lfu_cache.h)
+add_executable(exec main.cpp)
